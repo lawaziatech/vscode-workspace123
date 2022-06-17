@@ -12,6 +12,7 @@
 	"activationEvents": [
         "onCommand:workspace123.helloWorld"
 	],
+	"publisher": "lawaziatech",
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
